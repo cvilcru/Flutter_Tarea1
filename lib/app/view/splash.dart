@@ -9,7 +9,7 @@ class SplashPage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.end,
           children: [
             Image(
-              image: AssetImage("assets/images/rock.png"),
+              image: AssetImage("assets/images/paper.png"),
               height: 200,
               width: 200,
             ),
